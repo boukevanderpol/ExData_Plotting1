@@ -1,5 +1,5 @@
 # Setting the working directory where data is located. 
-setwd("~/R/EDA")
+setwd("~/R/EDA/project1")
 
 # loading packages
 library(data.table)
